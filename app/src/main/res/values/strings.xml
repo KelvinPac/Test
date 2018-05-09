@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="version">Version</string>
+    <string name="author">Author</string>
+    <string name="company">Company</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="contact">Contact</string>
+    <string name="about">About</string>
+</resources>
